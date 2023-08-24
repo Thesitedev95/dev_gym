@@ -1,0 +1,78 @@
+{
+    "GP": [
+        {
+            "title": "Guides & Processes",
+            "links": [
+                {
+                    "icon": "radio_button_checked",
+                    "label": "508",
+                    "subcategories": [
+                        {
+                            "subcatName": "Compliance Tracker",
+                            "subcatLink": "http://www.google.com"
+                        }
+                    ]
+                },
+                {
+                    "icon": "radio_button_checked",
+                    "label": "508 Videos",
+                    "subcategories": [
+                        {
+                            "subcatName": "Cloudburst Youtube",
+                            "subcatLink": "http://www.google.com"
+                        }
+                    ]
+                },
+                {
+                    "icon": "radio_button_checked",
+                    "label": "ECD"
+                },
+                {
+                    "icon": "radio_button_checked",
+                    "label": "E&E (DCN Finalization)"
+                },
+                {
+                    "icon": "radio_button_checked",
+                    "label": "E-Snaps"
+                }
+            ]
+        }
+    ],
+    "Internal": [
+        {
+            "title": "Internal Projects",
+            "links": [
+                {
+                    "icon": "radio_button_checked",
+                    "label": "Cloudburst Website",
+                    "link": "http://www.cloudburstgroup.com",
+                    "subcategories": [
+                        {
+                            "subcatName": "Pantheon",
+                            "subcatLink": "http://www.google.com"
+                        }
+                    ]
+                },
+                {
+                    "icon": "radio_button_checked",
+                    "label": "Litmos"
+                }
+            ]
+        }
+    ],
+    "Resources": [
+        {
+            "title": "Resources",
+            "links": [
+                {
+                    "icon": "radio_button_checked",
+                    "label": "Comms Team Chat"
+                },
+                {
+                    "icon": "radio_button_checked",
+                    "label": "Emergency Contacts"
+                }
+            ]
+        }
+    ]
+}
